@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "一寸照.png"
   name             : "Jiajun Meng"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Economics and Management Science"
