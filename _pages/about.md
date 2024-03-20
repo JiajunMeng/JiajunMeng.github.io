@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student from School of Economics and Management, Beihang University. My research interest includes game theory, digital economy, search theory.
 
-Educational experience
+Education
 ======
 ...
 
