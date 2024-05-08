@@ -24,7 +24,7 @@ author:
   avatar           : "WechatIMG230.jpg"
   name             : "Jiajun Meng (孟嘉俊)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Management Science and Engineering"
+  bio              : #"Ph.D. in Management Science and Engineering"
   location         : "Beijing, China"
   employer         : "Beihang University"
   uri              : # URL
