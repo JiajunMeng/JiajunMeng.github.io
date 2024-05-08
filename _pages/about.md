@@ -11,7 +11,7 @@ I am a Ph.D. student from School of Economics and Management, Beihang University
 
 Education
 ======
-- 2020-2024 BSc, Beihang University, Information System
+- 2020-2024 BSc, Beihang University, Information Management and Information System
 - 2024-2029 PhD, Beihang University, Management Science and Engineering
 - 2024-2029 PhD, City University of Hong Kong, Management Science and Engineering
 
