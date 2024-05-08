@@ -21,13 +21,13 @@ Honors and Awards
 
 Academic Services
 ======
-- Editor of _Journal of Economy and Technology (JET)_.
+- Editor of _Journal of Economy and Technology (JET)_
 - As one of the main writers, co-edited "Marketing Management: Theory and Data Practice" (Tsinghua University Press)
 
 Publications
 ======
-- Federated Learning Cooperation between Competitors
-- Toward Federated Learning Cooperation without Adversarial Attacks
-- Search with Seller's Regret
-- Search Pattern Comparison: Sequential and Parallel Search
+- "Federated Learning Cooperation between Competitors"
+- "Toward Federated Learning Cooperation without Adversarial Attacks"
+- "Search with Seller's Regret"
+- "Search Pattern Comparison: Sequential and Parallel Search"
 
