@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jiajun Meng's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Jiajun Meng"
+name                     : &name "Jiajun MENG"
 description              : &description "Ph.D. in Economics and Management Science"
 url                      : https://jiajunmeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -31,7 +31,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-5620-4608"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
