@@ -7,13 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student from School of Economics and Management, Beihang University. My research interest includes game theory, digital economy, and search theory. 
+Jiajun Meng is a Ph.D. student of Economics and Management at Beihang University. His research interests include marketing strategy, industrial organization, consumer search, platform strategy, artificial intelligence, and analytical models.
 
 Education
 ======
 - 2020-2024 BSc, Beihang University, Information Management and Information System
-- 2024-2029 PhD, Beihang University, Management Science and Engineering
-- 2024-2029 PhD, City University of Hong Kong, Management Science and Engineering
+- 2024-present PhD, Beihang University, Management Science and Engineering
+
+Research Interests
+======
+Marketing Strategy; Industrial Organization; Consumer Search; Platform Strategy; Artificial Intelligence; Analytical Models
+
+Publications
+======
+- Lin Liu; Jiajun Meng; Yongliang Yang: [LLM technologies and information search](https://doi.org/10.1016/j.ject.2024.08.007). November 2024; In: Journal of Economy and Technology. 
+
+Working Paper
+======
 
 Honors and Awards
 ======
@@ -21,13 +31,7 @@ Honors and Awards
 
 Academic Services
 ======
-- Editor of _Journal of Economy and Technology (JET)_
-- As one of the main writers, co-edited "Marketing Management: Theory and Data Practice" (Tsinghua University Press)
+- Editorial Office of _Journal of Economy and Technology (JET)_
 
-Publications
-======
-- "Federated Learning Cooperation between Competitors"
-- "Toward Federated Learning Cooperation without Adversarial Attacks"
-- "Search with Seller's Regret"
-- "Search Pattern Comparison: Sequential and Parallel Search"
+
 
